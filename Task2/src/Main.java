@@ -1,3 +1,5 @@
+package Task2.src;
+
 public class Main {
     public static boolean isAnagram(String str1, String str2) {
 

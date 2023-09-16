@@ -1,3 +1,5 @@
+package Task1.src;
+
 public class Car {
     private final String brand;
     private String model;
