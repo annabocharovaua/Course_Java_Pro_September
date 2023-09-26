@@ -1,0 +1,6 @@
+INFO : Starting JuniorCrudServiceApplication using Java 17.0.7
+DEBUG : User admin created
+INFO : Application started.
+DEBUG : User login successful.
+DEBUG : Database connection established.
+INFO : Data processing started.
